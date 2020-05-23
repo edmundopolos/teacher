@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aric Science",
+    "class": "Agric Science",
+    "section": "1a",
+
+    "key": 1
+  },
+  {
+    "name": "Computer Science",
+    "class": "Computer Science",
+    "section": "1a",
+
+    "key": 2
+  },
+  {
+    "name": "Computer Science",
+    "class": "Computer Science",
+    "section": "1b",
+    "key": 3
+  }
+]

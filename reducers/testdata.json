@@ -1,0 +1,95 @@
+[
+    {
+      id: "1",
+      name: "Paul Kehinde",
+      group: "Computer",
+      class: ["1", "2", "3", "4", "5", "6"],
+      parentId: 1,
+      department: "Science",
+      section: "ss2",
+  
+      age: "14"
+    },
+    {
+      id: "2",
+      name: "Ike Johnson",
+      group: "Computer",
+      class: ["1", "2", "3", "4", "5", "6"],
+      parentId: 1,
+      department: "Science",
+      section: "ss2",
+  
+      age: "13"
+    },
+    {
+      id: "3",
+      name: "Grace Ada",
+      group: "Agric",
+      class: ["2", "6", "7", "8", "9"],
+      parentId: 2,
+      department: "Arts",
+      section: "ss1",
+  
+      age: "14"
+    },
+    {
+      id: "4",
+      name: "Chizoba",
+      class: ["2", "6", "7", "8", "9"],
+      parentId: 2,
+      department: "Arts",
+      section: "ss1",
+  
+      age: "14"
+    },
+    {
+      id: "5",
+      name: "Ife",
+      class: ["1", "2", "3", "4", "5", "6"],
+      parentId: 2,
+      department: "Science",
+      section: "ss2",
+  
+      age: "14"
+    },
+    {
+      id: "6",
+      name: "Kayode",
+      class: ["1", "2", "3", "4", "5", "6"],
+      parentId: 1,
+      department: "Science",
+      section: "ss2",
+  
+      age: "14"
+    },
+    {
+      id: "7",
+      name: "Johnny B",
+      class: ["2", "6", "7", "8", "9"],
+      section: "ss1",
+      department: "Arts",
+      parentId: 1,
+  
+      age: "14"
+    },
+    {
+      id: "8",
+      name: "Samuel",
+      class: ["2", "6", "7", "8", "9"],
+      parentId: 2,
+      department: "Arts",
+      section: "ss2",
+  
+      age: "14"
+    },
+    {
+      id: "9",
+      name: "Ibeji",
+      class: ["2", "6", "7", "8", "9"],
+      parentId: 1,
+      department: "Arts",
+      section: "ss1",
+  
+      age: "14"
+    }
+  ];
